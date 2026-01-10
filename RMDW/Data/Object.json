@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "Title": "high school student",
+        "Description":"You want to pursue information technology, want to study in a professional programming training environment, with a systematic program and guaranteed output.",
+        "Image": "image/highschool.png"
+    },
+    {
+        "id": 2,
+        "Title": "student",
+        "Description":"You want to pursue information technology, want to study in a professional programming training environment, with a systematic program and guaranteed output.",
+        "Image": "image/student.png"
+    },
+    {
+        "id": 3,
+        "Title": "working",
+        "Description":"You want to pursue information technology, want to study in a professional programming training environment, with a systematic program and guaranteed output.",
+        "Image": "image/working.png"
+    }
+]
